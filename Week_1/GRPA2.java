@@ -50,5 +50,6 @@ public class GRPA2
 		        //Copies the department name of e2 into e1's department name.
 		
 		        e1.displayDetails();
+				s.close();
 	    }
 }
