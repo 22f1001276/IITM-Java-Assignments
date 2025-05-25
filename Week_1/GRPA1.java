@@ -10,6 +10,6 @@ public class GRPA1 {
         }
     }
 System.out.println(sum);
-    
+    sc.close();
   }
 }
