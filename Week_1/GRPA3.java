@@ -60,5 +60,6 @@ public class GRPA3
         e1.mutator();
         
         e2.display();
+        s.close();
     }
 }
